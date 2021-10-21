@@ -1,5 +1,4 @@
-import codecs
-import os
+from setuptools import setup, find_packages
 
 VERSION = '0.0.1'
 DESCRIPTION = 'A package for finding and confirming prime numbers'
